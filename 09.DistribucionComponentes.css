@@ -1,0 +1,13 @@
+.imagen1{
+    float:left;
+}
+.p3{
+    clear:both;
+    /*Con este metodo, evitamos que flote esta parrafo a ningun lado*/
+}
+#imagen2{
+    position:absolute;
+    top:0px;
+    left:calc(50% - 50px);
+    /*Fija la imagen en cuestion a un lugar especifico de la web*/
+}
